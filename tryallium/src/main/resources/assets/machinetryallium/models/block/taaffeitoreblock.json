@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "machinetryallium:blocks/taaffeite_block",
-    "particle": "machinetryallium:blocks/taaffeite_block"
-  }
-}
