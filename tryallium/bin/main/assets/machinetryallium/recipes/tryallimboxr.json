@@ -1,0 +1,33 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "3 5",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:tryalliumstick"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "machinetryallium:tryalliumstick"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "machinetryallium:tryalliumstick"
+    },
+    "7": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:tryalliumbow",
+    "count": 1
+  }
+}

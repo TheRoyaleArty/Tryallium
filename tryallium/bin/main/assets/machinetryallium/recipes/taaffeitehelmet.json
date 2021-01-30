@@ -1,0 +1,29 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "1": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "2": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "3": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "5": {
+      "item": "machinetryallium:taaffeitingot"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:taaffeitehelmet",
+    "count": 1
+  }
+}

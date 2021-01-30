@@ -1,0 +1,42 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "1": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "2": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "3": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "4": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "5": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "6": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "7": {
+      "item": "machinetryallium:taaffeitingot"
+    },
+    "8": {
+      "item": "machinetryallium:taaffeitingot"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:taaffeitoreblock",
+    "count": 1
+  }
+}
