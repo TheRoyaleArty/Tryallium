@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinetryallium:blocks/anti-crash_co",
+    "up": "machinetryallium:blocks/anti-crash_co",
+    "north": "machinetryallium:blocks/anti-crash_co",
+    "east": "machinetryallium:blocks/anti-crash_co",
+    "south": "machinetryallium:blocks/anti-crash_co",
+    "west": "machinetryallium:blocks/anti-crash_co",
+    "particle": "machinetryallium:blocks/anti-crash_co"
+  }
+}

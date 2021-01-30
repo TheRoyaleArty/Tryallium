@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-05-11 22:09:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-05-11 22:09:27 +0200"
+    },
+    "done": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tryallium_axe",
+    "customModelName": "Normal",
+    "name": "Tryalliumaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tryalliummod"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TryalliumGem"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

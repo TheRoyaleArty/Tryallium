@@ -1,0 +1,42 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "1": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "2": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "3": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "4": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "5": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "6": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "7": {
+      "item": "machinetryallium:liquidetryallium"
+    },
+    "8": {
+      "item": "machinetryallium:liquidetryallium"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:tryalliumgem",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tryalliummod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 3.0,
+    "attackSpeed": 7.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "HammerBlockDestroyedWithTool"
+    }
+  }
+}

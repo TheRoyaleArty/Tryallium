@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinetryallium:blocks/sticks_haut_bas",
+    "up": "machinetryallium:blocks/sticks_haut_bas",
+    "north": "machinetryallium:blocks/sticks_cote",
+    "east": "machinetryallium:blocks/sticks_cote",
+    "south": "machinetryallium:blocks/sticks_cote",
+    "west": "machinetryallium:blocks/sticks_cote",
+    "particle": "machinetryallium:blocks/sticks_haut_bas"
+  }
+}

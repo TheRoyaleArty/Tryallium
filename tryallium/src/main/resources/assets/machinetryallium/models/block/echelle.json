@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "machinetryallium:blocks/ladder",
+    "particle": "machinetryallium:blocks/ladder"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer",
+    "customModelName": "Normal",
+    "name": "Hammersmelt",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 6.0,
+    "attackSpeed": 8.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "Hammersmeltdetruitblock"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer",
+    "customModelName": "Normal",
+    "name": "Hammer_speed",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 1,
+    "efficiency": 7.0,
+    "attackSpeed": 10.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 1200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "Hammerspeeddetruitblock"
+    }
+  }
+}

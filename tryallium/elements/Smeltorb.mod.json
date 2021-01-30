@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TryalliumGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TryalliumGem"
+      },
+      {
+        "value": "CUSTOM:TaaffeitOreBlock"
+      },
+      {
+        "value": "CUSTOM:TryalliumGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TryalliumGem"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Smeltupgrade"
+    },
+    "name": "smeltorb",
+    "namespace": "mod"
+  }
+}

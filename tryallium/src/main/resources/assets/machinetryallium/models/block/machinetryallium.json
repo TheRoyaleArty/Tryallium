@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinetryallium:blocks/tryallium_machine",
+    "up": "machinetryallium:blocks/tryallium_machine",
+    "north": "machinetryallium:blocks/tryallium__3_autre_cote_-1",
+    "east": "machinetryallium:blocks/tryallium__3_autre_cote_-1",
+    "south": "machinetryallium:blocks/tryallium__3_autre_cote_-1",
+    "west": "machinetryallium:blocks/tryallium__3_autre_cote_-1",
+    "particle": "machinetryallium:blocks/tryallium_machine"
+  }
+}
