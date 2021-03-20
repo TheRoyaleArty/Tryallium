@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "machinetryallium:blocks/tryallium_stage_1",
+    "particle": "machinetryallium:blocks/tryallium_stage_1"
+  }
+}

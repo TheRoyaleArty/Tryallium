@@ -1,0 +1,54 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "minage",
+          "onClick": {
+            "name": "Cartepourallezminage"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "minage",
+          "x": 268,
+          "y": 197
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "faction",
+          "onClick": {
+            "name": "Cartepourretourlobbyfact"
+          },
+          "width": 140,
+          "height": 40,
+          "name": "faction",
+          "x": 429,
+          "y": 196
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Carte  d'exploration",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Carte  d'exploration",
+          "x": 324,
+          "y": 94
+        }
+      }
+    ]
+  }
+}

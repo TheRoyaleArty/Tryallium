@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "machinetryallium:blocks/caca",
+    "particle": "machinetryallium:blocks/caca"
+  }
+}

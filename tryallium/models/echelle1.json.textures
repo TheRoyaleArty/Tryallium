@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "ladder",
+        "4": "sticks_haut_bas"
+      },
+      "name": "default"
+    }
+  }
+}

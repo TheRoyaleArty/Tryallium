@@ -1,0 +1,30 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:tryalliumgem"
+    },
+    "1": {
+      "item": "machinetryallium:tryalliumgem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "machinetryallium:tryalliumgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:tryalliumaxe",
+    "count": 1
+  }
+}
