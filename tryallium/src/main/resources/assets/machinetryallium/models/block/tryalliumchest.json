@@ -1,8 +1,0 @@
-{
-  "parent": "machinetryallium:custom/tryallium_chest",
-  "textures": {
-    "all": "machinetryallium:blocks/aladiumhest",
-    "particle": "machinetryallium:blocks/aladiumhest",
-    "0": "machinetryallium:blocks/aladiumhest"
-  }
-}
