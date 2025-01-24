@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "machinetryallium:blocks/ardium_sangin_machine_cote",
+    "up": "machinetryallium:blocks/ardium_sangin_machine",
+    "north": "machinetryallium:blocks/ardium_sangin_machine_cote",
+    "east": "machinetryallium:blocks/ardium_sangin_machine_cote",
+    "south": "machinetryallium:blocks/ardium_sangin_machine_cote",
+    "west": "machinetryallium:blocks/ardium_sangin_machine_cote",
+    "particle": "machinetryallium:blocks/ardium_sangin_machine_cote"
+  }
+}

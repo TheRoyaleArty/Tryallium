@@ -1,0 +1,26 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:azuriteingot"
+    },
+    "2": {
+      "item": "machinetryallium:azuriteingot"
+    },
+    "3": {
+      "item": "machinetryallium:azuriteingot"
+    },
+    "5": {
+      "item": "machinetryallium:azuriteingot"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:azuritearmorboots",
+    "count": 1
+  }
+}

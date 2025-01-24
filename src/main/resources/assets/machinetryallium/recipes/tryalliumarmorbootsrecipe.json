@@ -1,0 +1,26 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:tryalliumgem"
+    },
+    "2": {
+      "item": "machinetryallium:tryalliumgem"
+    },
+    "3": {
+      "item": "machinetryallium:tryalliumgem"
+    },
+    "5": {
+      "item": "machinetryallium:tryalliumgem"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:tryalliumboots",
+    "count": 1
+  }
+}

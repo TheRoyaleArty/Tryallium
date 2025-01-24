@@ -1,0 +1,16 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "machinetryallium:taaffeitoreblock"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:taaffeitingot",
+    "count": 9
+  }
+}

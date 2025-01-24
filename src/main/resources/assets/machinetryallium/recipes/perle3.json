@@ -1,0 +1,46 @@
+{
+  "group": "machinetryallium",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "minecraft:sapling",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "minecraft:sapling",
+      "data": 32767
+    },
+    "4": {
+      "item": "machinetryallium:taaffeitoreblock"
+    },
+    "5": {
+      "item": "minecraft:sapling",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "minecraft:sapling",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "machinetryallium:healthpearl",
+    "count": 1
+  }
+}

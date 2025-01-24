@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "machinetryallium:blocks/azurite_block",
+    "particle": "machinetryallium:blocks/azurite_block"
+  }
+}

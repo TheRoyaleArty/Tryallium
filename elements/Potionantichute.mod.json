@@ -1,0 +1,25 @@
+{
+  "_fv": 10,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "Potion_danti-chute",
+    "customModelName": "Normal",
+    "name": "Potion anti chute",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tryalliummod"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatingSpeed": 6,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "PotionantichuteFoodEaten"
+    }
+  }
+}
